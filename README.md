@@ -57,6 +57,8 @@ This research was supported by the Hellenic Foundation for Research and Innovati
 
 ## Contact
 
-ORCID: [0009-0002-5954-1162](https://orcid.org/0009-0002-5954-1162) 
-ORCID: [0009-0002-5954-1162](https://orcid.org/0000-0002-9757-3600) 
-ORCID: [0009-0002-5954-1162](https://orcid.org/0000-0003-1699-6714) 
+| Name | ORCID | email |
+|---|---|---|
+| Petros Stratis | [0009-0002-5954-1162](https://orcid.org/0009-0002-5954-1162) | stratisaua@mail.ntua.gr | 
+| Vassilios Andronis | [0009-0002-5954-1162](https://orcid.org/0000-0003-1699-6714) | andronis@central.ntua.gr |
+| Demeter Argialas | [0009-0002-5954-1162](https://orcid.org/0000-0002-9757-3600) | argialas@gmail.com |
