@@ -9,6 +9,15 @@ Remote Sensing Laboratory, School of Rural, Surveying and Geoinformatics Enginee
 
 ---
 
+## Pages
+
+| Page | What it covers |
+|---|---|
+| [Poster](POSTER.md) | The poster as an image, with a PDF download |
+| [Workflow](WORKFLOW.md) | How the field survey runs, step by step, from QGIS to the phone and back |
+| [Form](FORM.md) | Every field of the survey form, its values and what they mean |
+| [Dataset](DATASET.md) | The spring 2026 dataset in tables, its limits and availability |
+
 ## Why
 
 CAP area monitoring and organic certification rely more and more on satellite checks. Farmers need simple ways to document their cultivation practices, auditors need structured evidence, and Earth-observation models need reliable training labels from the field, not from declarations.
@@ -17,7 +26,7 @@ CAP area monitoring and organic certification rely more and more on satellite ch
 
 **QGIS** (project + coded form) → **Mergin Maps** (sync to phone, works offline) → **field** (GPS point, coded answers, up to 3 photos) → **back to QGIS** (quality control, ground truth for Sentinel-2 / PlanetScope).
 
-All tools are free and open source.
+All tools are free and open source. Details: [Workflow](WORKFLOW.md).
 
 ## What each point records
 
@@ -32,7 +41,7 @@ All tools are free and open source.
 | `photo`, `photo1`, `photo2` | up to 3 photos per point |
 | `date_time`, `notes` | automatic timestamp, free text |
 
-*"Sprayed-like" = visual evidence consistent with herbicide use, not a confirmed application.*
+*"Sprayed-like" = visual evidence consistent with herbicide use, not a confirmed application.* Details: [Form](FORM.md).
 
 ## Dataset (spring 2026)
 
@@ -43,7 +52,7 @@ All tools are free and open source.
 - Confidence: A 310 · B 64 · C 14
 - Plus 101 pilot points recorded with an earlier form (same plots)
 
-**The point data are not published yet** (analysis in preparation).
+**The point data are not published yet** (analysis in preparation). Details: [Dataset](DATASET.md).
 
 ## Next steps
 
@@ -59,9 +68,9 @@ This research was supported by the Hellenic Foundation for Research and Innovati
 
 | Name | ORCID | email |
 |---|---|---|
-| Petros Stratis | [0009-0002-5954-1162](https://orcid.org/0009-0002-5954-1162) | stratisaua@mail.ntua.gr | 
-| Vassilios Andronis | [0000-0003-1699-6714](https://orcid.org/0000-0003-1699-6714) | andronis@central.ntua.gr |
-| Demeter Argialas | [0000-0002-9757-3600](https://orcid.org/0000-0002-9757-3600) | argialas@gmail.com |
+| Petros Stratis | [0009-0002-5954-1162](https://orcid.org/0009-0002-5954-1162) | stratisaua@mail.ntua.gr |
+| Vassilios Andronis | [0000-0003-1699-6714](https://orcid.org/0000-0003-1699-6714) | |
+| Demetre Argialas | [0000-0002-9757-3600](https://orcid.org/0000-0002-9757-3600) | |
 
 Address:
 Lampadarios Building, 9 Iroon Polytechneiou,

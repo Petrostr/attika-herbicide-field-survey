@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this workflow or refer to this dataset, please cite it as below."
+title: "From Phone to Pixel: open-source field ground truth for describing cultivation practices in olive groves, vineyards and other plots in Greece"
+authors:
+  - family-names: Stratis
+    given-names: Petros
+    orcid: "https://orcid.org/0009-0002-5954-1162"
+    affiliation: "Remote Sensing Laboratory, National Technical University of Athens"
+  - family-names: Andronis
+    given-names: Vassilios
+    orcid: "https://orcid.org/0000-0003-1699-6714"
+    affiliation: "Remote Sensing Laboratory, National Technical University of Athens"
+  - family-names: Argialas
+    given-names: Demetre
+    orcid: "https://orcid.org/0000-0002-9757-3600"
+    affiliation: "Remote Sensing Laboratory, National Technical University of Athens"
+date-released: "2026-11-14"
+url: "https://github.com/Petrostr/attika-herbicide-field-survey"
+keywords:
+  - QGIS
+  - Mergin Maps
+  - ground truth
+  - herbicide
+  - remote sensing
+  - organic certification
