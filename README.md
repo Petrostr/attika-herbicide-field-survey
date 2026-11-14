@@ -63,6 +63,12 @@ This research was supported by the Hellenic Foundation for Research and Innovati
 | Vassilios Andronis | [0000-0003-1699-6714](https://orcid.org/0000-0003-1699-6714) | andronis@central.ntua.gr |
 | Demeter Argialas | [0000-0002-9757-3600](https://orcid.org/0000-0002-9757-3600) | argialas@gmail.com |
 
+Address:
+Lampadarios Building, 9 Iroon Polytechneiou,
+Zografou 15780, Attica
+
+Website: survey.ntua.gr/rslab
+
 ## Laboratory
 
 [Remote Sensing Laboratory, School of Rural, Surveying and Geoinformatics Engineering, NTUA](https://www.survey.ntua.gr/en/departments-and-laboratories/department-of-topography/laboratory-of-remote-sensisng)
