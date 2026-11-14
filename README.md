@@ -1,3 +1,7 @@
+<p>
+  <img src="logo_rslab.jpg" alt="Remote Sensing Laboratory, National Technical University of Athens" height="90">
+</p>
+
 # From Phone to Pixel
 
 **Open-source field ground truth for describing cultivation practices in olive groves, vineyards and other plots in Greece**
@@ -6,6 +10,10 @@ Petros Stratis · Dr. Vassilios Andronis · Em. Prof. Demetre Argialas
 Remote Sensing Laboratory, School of Rural, Surveying and Geoinformatics Engineering, National Technical University of Athens (NTUA)
 
 > Poster presented at the **IEEE GRSS Student and Young Professionals Summit 2026**, Naples, 14–15 November 2026.
+
+![Field points in Eastern Attica, coloured by spray status](map_attica_points.jpg)
+
+*495 field points in Eastern Attica, spring 2026. Orange: sprayed-like · Blue: not sprayed · Grey: uncertain. Basemap © OpenStreetMap contributors.*
 
 ---
 
@@ -65,8 +73,6 @@ All tools are free and open source. Details: [Workflow](WORKFLOW.md).
 This research was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the 4th Call for H.F.R.I. PhD Fellowships (Fellowship Number: 011270).
 
 <p>
-  <img src="logo_rslab.jpg" alt="Remote Sensing Laboratory, NTUA" height="70">
-  &nbsp;&nbsp;
   <img src="logo_ntua.png" alt="National Technical University of Athens" height="70">
   &nbsp;&nbsp;
   <img src="logo_hfri.png" alt="Hellenic Foundation for Research and Innovation" height="60">
