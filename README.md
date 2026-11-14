@@ -64,6 +64,14 @@ All tools are free and open source. Details: [Workflow](WORKFLOW.md).
 
 This research was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the 4th Call for H.F.R.I. PhD Fellowships (Fellowship Number: 011270).
 
+<p>
+  <img src="logo_rslab.jpg" alt="Remote Sensing Laboratory, NTUA" height="70">
+  &nbsp;&nbsp;
+  <img src="logo_ntua.png" alt="National Technical University of Athens" height="70">
+  &nbsp;&nbsp;
+  <img src="logo_hfri.png" alt="Hellenic Foundation for Research and Innovation" height="60">
+</p>
+
 ## Contact
 
 | Name | ORCID | email |
