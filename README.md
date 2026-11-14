@@ -62,3 +62,7 @@ This research was supported by the Hellenic Foundation for Research and Innovati
 | Petros Stratis | [0009-0002-5954-1162](https://orcid.org/0009-0002-5954-1162) | stratisaua@mail.ntua.gr | 
 | Vassilios Andronis | [0000-0003-1699-6714](https://orcid.org/0000-0003-1699-6714) | andronis@central.ntua.gr |
 | Demeter Argialas | [0000-0002-9757-3600](https://orcid.org/0000-0002-9757-3600) | argialas@gmail.com |
+
+## Laboratory
+
+[Remote Sensing Laboratory, School of Rural, Surveying and Geoinformatics Engineering, NTUA](https://www.survey.ntua.gr/en/departments-and-laboratories/department-of-topography/laboratory-of-remote-sensisng)
